@@ -12,8 +12,8 @@
 ### 🛠️ Tech Stack
 
 **Languages:** Python, SQL
-**ML/Data:** scikit-learn, Pandas, NumPy, Matplotlib
-**Tools:** Jupyter Notebook, Power BI, Excel
+**ML/Data:**  Scikit-learn, Pandas, NumPy, NLP, Classification Models, Feature Engineering, Model Evaluation
+**Tools:** Jupyter Notebook, VScode
 **Currently exploring:** PyTorch / TensorFlow
 
 ---
@@ -21,12 +21,10 @@
 ### 📌 Featured Projects
 
 - **[Credit Card Fraud Detection](https://github.com/NukanaboyinaChaitanya/credit-card-fraud-detection)** — ML model to flag fraudulent transactions
-- **[NLP Training](https://github.com/NukanaboyinaChaitanya/NLP-Training)** — Natural language processing experiments and models
-- **[Skill Match](https://github.com/NukanaboyinaChaitanya/Skill-Match)** — [add a one-line description of what this does]
-
+- **[Pneumonia Detection From chest X-rays Using CNN](https://github.com/NukanaboyinaChaitanya/pneumonia-detection)** — Designed and trained a CNN using TensorFlow/Keras to classify chest X-rays as Pneumonia or Normal
 ---
 
 ### 📫 Let's Connect
 
-- LinkedIn: 
-- Email: [add your email]
+- LinkedIn: https://www.linkedin.com/in/chaitanya-nukanaboyina/
+- Email: nukanaboyinachaitanya@gmail.com
