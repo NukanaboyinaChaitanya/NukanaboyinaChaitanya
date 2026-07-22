@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Chaitanya 👋
 
-<!--
-**NukanaboyinaChaitanya/NukanaboyinaChaitanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Machine Learning (2026)
+🎯 Aiming for roles in **AI / Machine Learning Engineering**
 
-Here are some ideas to get you started:
+🔭 Currently building end-to-end ML projects — from data cleaning to model deployment
+🌱 Learning: Deep Learning, model evaluation, and applied AI systems
+💡 Interests: turning raw data into predictive models and real-world AI/ML systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, SQL
+**ML/Data:** scikit-learn, Pandas, NumPy, Matplotlib
+**Tools:** Jupyter Notebook, Power BI, Excel
+**Currently exploring:** PyTorch / TensorFlow
+
+---
+
+### 📌 Featured Projects
+
+- **[Credit Card Fraud Detection](https://github.com/NukanaboyinaChaitanya/credit-card-fraud-detection)** — ML model to flag fraudulent transactions
+- **[NLP Training](https://github.com/NukanaboyinaChaitanya/NLP-Training)** — Natural language processing experiments and models
+- **[Skill Match](https://github.com/NukanaboyinaChaitanya/Skill-Match)** — [add a one-line description of what this does]
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: 
+- Email: [add your email]
