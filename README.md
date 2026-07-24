@@ -6,7 +6,7 @@
 🔭 Currently building end-to-end ML projects — from data cleaning to model deployment
 🌱 Learning: Deep Learning, model evaluation, and applied AI systems
 💡 Interests: turning raw data into predictive models and real-world AI/ML systems
-I am intrested to join organization
+
 ---
 
 ### 🛠️ Tech Stack
