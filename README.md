@@ -8,7 +8,7 @@
 💡 Interests: turning raw data into predictive models and real-world AI/ML systems
 
 ---
-
+Aspiring data analyst and data scientist
 ### 🛠️ Tech Stack
 
 **Languages:** Python, SQL
