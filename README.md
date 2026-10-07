@@ -29,3 +29,4 @@
 - LinkedIn: https://www.linkedin.com/in/chaitanya-nukanaboyina/
 - Email: nukanaboyinachaitanya@gmail.com
 
+Aspiring data analyst
