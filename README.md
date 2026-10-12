@@ -1,7 +1,7 @@
 ### Hi, I'm Chaitanya 👋
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning (2026)
-🎯 Aiming for roles in **AI / Machine Learning Engineering**
+🎯 Aiming for roles in **AI / Machine Learning Engineering and data roles**
 
 🔭 Currently building end-to-end ML projects — from data cleaning to model deployment
 🌱 Learning: Deep Learning, model evaluation, and applied AI systems
