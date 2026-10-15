@@ -28,6 +28,6 @@
 
 - LinkedIn: https://www.linkedin.com/in/chaitanya-nukanaboyina/
 - Email: nukanaboyinachaitanya@gmail.com
-- hello this is chaitanya
+
 
 
